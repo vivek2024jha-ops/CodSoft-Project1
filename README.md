@@ -1,1 +1,1 @@
-# CodSoft-Project1 The Calculator Program is a simple yet useful Python application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows users to input numbers and choose the desired operation, displaying the result instantly.
+# CodSoft-Project1 The Calculator Program is a simple program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows users to input numbers and choose the desired operation, displaying the result instantly.
